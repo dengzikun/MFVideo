@@ -1,7 +1,7 @@
 # MFVideo
 
-MFVideoCapture: Video capture library based windows media foundation.
+MFVideoCapture: Video capture library based on windows media foundation.
 
-D3DVideoRenderer: Video renderer library based windows DXVAHD.
+D3DVideoRenderer: Video renderer library based on windows DXVAHD.
 
 MainApp: Test program.
